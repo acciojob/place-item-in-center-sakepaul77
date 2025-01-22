@@ -1,18 +1,5 @@
-/* Ensure the holder takes up the full viewport */
-.holder {
-  display: flex; /* Enable flexbox on the holder */
-  justify-content: center; /* Horizontally center the item */
-  align-items: center; /* Vertically center the item */
-  width: 100vw; /* Full viewport width */
-  height: 100vh; /* Full viewport height */
-  margin: 0; /* Remove any default margins */
+.item-1{
+	width:100px;
+	height:100px;
+	background-color:red;
 }
-
-/* Style for item-1 */
-.item-1 {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-}
-
-/* Your CSS Code here. */
